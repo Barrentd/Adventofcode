@@ -1,2 +1,2 @@
 # Adventofcode
-This repository contains my solutions for the Advent of Code challenges 2023
+This repository contains my solutions for the Advent of Code challenges
